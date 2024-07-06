@@ -1,10 +1,10 @@
 ---
-layout: post
-title: "可能是最全面的github pages搭建个人博客教程"
-date:   2019-11-22
+layout: test
+title: "pwntools脚本"
+date:   2024-7-6
 tags: [geek]
 comments: true
-author: lemonchann
+author: qiying
 ---
 
 from pwn import
